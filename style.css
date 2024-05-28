@@ -1,0 +1,13 @@
+
+body {
+  text-align: center;
+  font-family: 'Arial';
+  background-color: #2288aa;
+  color: #00fbff;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
